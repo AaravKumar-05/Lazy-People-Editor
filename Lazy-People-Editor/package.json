@@ -1,0 +1,23 @@
+{
+  "name": "lazy-people-editor",
+  "version": "1.0.0",
+  "description": "Makes videos for lazy people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaravKumar-05/Lazy-People-Editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaravKumar-05/Lazy-People-Editor/issues"
+  },
+  "homepage": "https://github.com/AaravKumar-05/Lazy-People-Editor#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.52.0"
+  }
+}
